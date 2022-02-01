@@ -29,10 +29,15 @@ participate from anywhere in the world, track their accomplishments, and showcas
 themselves to potential employers.*
 
 This Data Science internship is divided into three tracks:
+
 * Data Science
 * MLOps/Data Engineering
 * Data Storytelling
+
+
 I chose the Data storytelling track which and the curriculum is divided into five stages: 
+
+
 * Stage A: Introduction to Python for Machine Learning 
 * Stage B: Becoming a Data Storyteller
 * Stage C: Python Libraries for Data Storytelling
