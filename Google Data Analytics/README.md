@@ -9,7 +9,7 @@ Through a mix of videos, assessments, and hands-on labs, you’ll get introduced
 Skills you’ll gain will include Data cleaning, problem-solving, critical thinking, data ethics, and data visualization.
 Platforms and tools you will learn include: Presentations, Spreadsheets, SQL, Tableau, and R Programming
 In addition to expert training and hands-on projects, you'll complete a case study that you can share with potential employers to showcase your new skill set.
-Learn concrete skills that top employers are hiring for right now".
+Learn concrete skills that top employers are hiring for right now".*
 
 The courses offered in this program are:
 * Course 1: Foundations, Data, Data Everywhere
