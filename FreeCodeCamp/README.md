@@ -1,4 +1,7 @@
 ## Data Analysis with Python
+
+![Freecodecamp](https://user-images.githubusercontent.com/96535282/152957427-d0bb485e-ed31-4203-bc68-c44b6fc03038.png)
+
 The data analysis with python certification in freecodecamp introduced me to how I can use python for my data analysis. I learned how to work with code and the python libraries required for data analysis and visualization. These libraries are:
 
 * Numpy: used for array manipulation and numeric computing
